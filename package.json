@@ -23,7 +23,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^2.2.28",
+    "mongodb": "^3.6.1",
     "mongoose": "^5.5.13",
     "multer": "^1.4.1",
     "nodemailer": "^6.3.0"
